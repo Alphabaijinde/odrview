@@ -1,5 +1,5 @@
 # odrview
-Reproduce odrViewer (正在施工中)
+Reproduce odrViewer (主体功能已经完成)
 
 # Inspiration
 https://github.com/javedulu/ad-xolib
